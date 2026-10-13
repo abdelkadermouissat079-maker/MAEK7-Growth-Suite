@@ -1,0 +1,7 @@
+{
+  "name": "MAEK7-Growth Suite",
+  "description": "حزمة نمو وأتمتة متكاملة لصناع المحتوى على منصة X مدعومة بأدوات النشر، الميمز، الصوت، وتطبيق الجوال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
